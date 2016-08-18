@@ -5,19 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
 		"All Autocomplete",
-		"Clipboard Manager",
-		"DocBlockr",
+		"Better CoffeeScript",
 		"Emmet",
-		"GitGutter",
-		"MDN Search Doc",
+		"ERB Snippets",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-rubocop",
-		"SublimeLinter-ruby",
-		"Theme - Flatland"
+		"Theme - Solarized Space"
 	]
 }
