@@ -1,8 +1,8 @@
 {
 	"always_show_minimap_viewport": true,
 	"auto_complete": true,
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Solarized Space/Solarized V (Light).tmTheme",
+	// "bold_folder_labels": true,
+	// "color_scheme": "Packages/Theme - Solarized Space/Solarized V (Light).tmTheme",
 	"copy_with_empty_selection": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -19,7 +19,11 @@
 		79
 	],
 	"tab_size": 2,
-	"theme": "Solarized Space Light.sublime-theme",
+	// "theme": "Solarized Space Light.sublime-theme",
+	"theme": "Agila.sublime-theme",
+	"color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+	// "theme": "Agila Light.sublime-theme",
+	// "color_scheme": "Packages/Agila Theme/Agila Light Solarized.tmTheme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
