@@ -17,6 +17,8 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
 		"Theme - Solarized Space"
 	]
 }
